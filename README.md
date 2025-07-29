@@ -12,5 +12,5 @@ This tool was created to rewrite an event path within ScriptObject-type objects.
 ### GetJSONFileDrawEditor • [Code](https://github.com/marquesbelem/Tools-Unity/blob/main/GetJSONFileDrawEditor.cs)
 This tool was created to read information from a JSON file and populate a list to apply information all at once.
 
-### ToolAddPrefabs • [Code](https://github.com/marquesbelem/Tools-Unity/blob/main/ToolAddPrefab.cs)
+### ToolAddPrefabs • [Code](https://github.com/marquesbelem/Tools-Unity/blob/main/ToolAddPrefabs.cs)
 This Unity Editor tool allows developers to easily register and categorize prefabs within the project using a custom Odin Inspector window. It saves prefab metadata (name, path, category, and biome) into a JSON file for consistent project organization and version control. Useful for managing level design assets like hazards, gameplay elements, and scenery across different game worlds.
