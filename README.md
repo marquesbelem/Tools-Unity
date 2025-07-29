@@ -23,3 +23,10 @@ A Unity Editor tool that provides a user-friendly interface to browse, filter, a
 </br>
 </br>
 <img width="444" height="256" alt="image" src="https://github.com/user-attachments/assets/59fc933c-2fee-4aa9-8ec4-2135d75f8b3f" />
+
+
+### JsonManipulation • [Code](https://github.com/marquesbelem/Tools-Unity/blob/main/JsonManipulation.cs)
+This Unity Editor tool allows developers to batch-edit JSON files located in the project’s StreamingAssets/Levels folder. It supports updating nested fields, replacing property names, adding new fields, and injecting color data into JSON structures—making it a powerful utility for automating configuration updates in level design and content pipelines.
+</br>
+</br>
+<img width="963" height="430" alt="image" src="https://github.com/user-attachments/assets/2660598f-ba34-445e-bcd2-c813ad034f48" />
